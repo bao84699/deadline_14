@@ -304,7 +304,10 @@ header{
 
 
 
-
+.imgicon {
+    width: 24px;
+    height: 24px;
+}
 .container {
     margin-top: 100px;
     margin-bottom: 82px;
@@ -766,6 +769,7 @@ header{
             flex-wrap: wrap;
             gap: 34px;
             justify-content: center;
+            align-items: center;
             .box1{
                 display: flex;
                 position: relative;

@@ -1,4 +1,7 @@
 @media only screen and (max-width: 1280px) {
+    .imgicon {
+        display: none;
+    }
     .container {
     .section2 {
         display: flex;

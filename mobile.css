@@ -1,5 +1,7 @@
 @media screen and (max-width: 882px) {
-
+.imgicon {
+        display: none;
+    }
 
     body::-webkit-scrollbar {
         display: none; /* Ẩn thanh cuộn */
@@ -302,6 +304,9 @@
     }
 }
     .container {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        gap: 50px;
         width: 100%;
     .section2 {
         display: flex;
@@ -309,12 +314,15 @@
         gap: 46px;
         width: 95%;
         max-width: 684px;
+        align-items: center;
         .left {
+            width: 355px;
             display: flex;
             flex-direction: column;
             gap: 48px;
-            align-items: center;
+            align-items: flex-start;
             .information {
+                align-items: flex-start;
                 display: flex;
                 flex-direction: column;
                 gap: 10px;
