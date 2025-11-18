@@ -1,7 +1,7 @@
 body {
     padding: 0;
     margin: 0;
-    font-family: "Montserrat", sans-serif;
+    font-family: "Work Sans", sans-serif;
     box-sizing: border-box;
 }
 
@@ -179,7 +179,6 @@ body {
         gap: 46px;
         width: 95%;
         max-width: 1180px;
-        
         .left {
             display: flex;
             flex-direction: column;
@@ -495,7 +494,7 @@ body {
                     font-size: 16px;
                     line-height: 20px;
                     color: #ABABAB;
-                    font-family: "Montserrat", sans-serif;
+                    font-family: "Work Sans", sans-serif;
                 }
                 .name {
                     display: flex;
@@ -645,6 +644,7 @@ body {
                     top: 0;
                     box-sizing: border-box;
                     padding-top: 50px;
+                    border-radius: 8px;
                     img {
                         width: 24px;
                         height: 24px;
@@ -741,7 +741,7 @@ body {
                 font-size: 16px;
                 line-height: 20px;
                 color: #ABABAB;
-                font-family: "Montserrat", sans-serif;
+                font-family: "Work Sans", sans-serif;
             }
             .email {
                 width: 319px;
