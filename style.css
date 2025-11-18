@@ -769,6 +769,7 @@ header{
             .box1{
                 display: flex;
                 position: relative;
+                opacity: 0.8;
                 width: 325px;
                 height: 348px;
                 .back {
