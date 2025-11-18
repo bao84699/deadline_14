@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1230px) {
+@media only screen and (max-width: 1280px) {
     .container {
     .section2 {
         display: flex;
@@ -425,7 +425,8 @@
                 width: 594.76px;
                 height: 532px;
                 backdrop-filter: blur(4px);
-                border: 1px solid #C8E6C9box-shadow: 0px 4px 30px 0px #0000001A;
+                border: 1px solid #C8E6C9;
+                box-shadow: 0px 4px 30px 0px #0000001A;
             }
         }
     }
