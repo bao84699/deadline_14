@@ -407,13 +407,15 @@
             display: flex;
             flex-direction: row;
             gap: 10px;
-            overflow-x: scroll;
+            width: 100%;
+            max-width: 1180Px;
+            justify-content: center;
             .box {
                 display: flex;
                 flex-direction: row;
                 gap: 10px;
                 position: relative;
-                width: 335px;
+                width: 100%;
                 img {
                     width: 335px;
                     height: 203.2132110595703px;
